@@ -9,24 +9,11 @@ Hi 👋, I'm Pubudu Dilshan
 
 </div>
 
-🔭 I’m currently working on:
-・System Administration:  Optimizing server performance and ensuring high availability and security.
-・iOS Development: Creating a user-friendly mobile application for a local business.
-👯 I’m looking to collaborate on:
-・Cross-platform App Development: Partnering with developers to build apps for both iOS and Android.
-・Network Security Projects: Collaborating on initiatives to enhance security measures for small businesses.
-🤝 I’m looking for help with:
-・Swift Programming: Seeking mentorship on advanced Swift techniques.
-・System Monitoring Tools: Looking for recommendations on tools to track multi-platform system performance.
-🌱 I’m currently learning:
-・iOS Frameworks: Exploring SwiftUI and Combine to enhance app development.
-・Cloud Services: Studying for Azure certifications to improve my knowledge of cloud solutions.
-💬 Ask me about:
-・Best Practices in System Administration: Tips on server management and security protocols.
-・iOS Development Tips:  Strategies for app development and UI design.
-⚡ Fun fact:
-・I developed an app that reached 10,000 downloads, igniting my passion for iOS development.
-・I automate server maintenance with scripts, freeing up time for my freelance projects.
+- 🔭 I’m currently working on **[Hospital Management System](https://pubududilshan.com/portfolio/hospital-management-system/)**
+- 🌱 Learning **Cloud Architecture** and **Mobile App Development**
+- 💬 Ask me about **Web Development**, **UI/UX Design**, **Cloud Solutions**
+- 📫 Reach me at: [support@pubududilshan.com](mailto:support@pubududilshan.com)
+
 <div align="center">
 
 ## My Statistics:
