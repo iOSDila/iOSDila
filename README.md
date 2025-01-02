@@ -2,7 +2,7 @@
 
 [![](https://komarev.com/ghpvc/?username=scar1109&style=flat)](#) 
 
-<img align="center" alt="Coding" width="100" src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" style="max-width: 100%;">
+<img align="center" alt="Coding" width="150" src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" style="max-width: 100%;">
 
 Hi 👋, I'm Pubudu Dilshan
 ==========================
