@@ -24,7 +24,7 @@ Hi 👋, I'm Pubudu Dilshan
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scar1109&theme=radical&langs_count=10&card_width=500px" alt="Most Used Languages">
     </td>
     <td>
-      <a href="https://github.com/scar1109">
+      <a href="https://github.com/iOSDila/">
         <img src="https://awesome-github-stats.azurewebsites.net/user-stats/scar1109?cardType=level&theme=radical&preferLogin=false" alt="GitHub Stats">
       </a>
     </td>
