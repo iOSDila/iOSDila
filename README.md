@@ -9,9 +9,7 @@
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
-  
-# Hello! I'm Dila 👋
+<td width="100%" align="left">
 
 - 🌱 **I’m currently working on:**<br>
   ・System Administration<br>
