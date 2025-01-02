@@ -11,21 +11,25 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently working on: 
-      ・System Administration
-      ・iOS Development
+# Hello! I'm Dila 👋
 
-- 🧑‍🎓 I’m looking to collaborate on: 
-      ・Cross-platform App Development
+- 🌱 **I’m currently working on:**<br>
+  ・System Administration<br>
+  ・iOS Development<br>
 
-- 🤝 I’m looking for help with:
-      ・Swift Programming
-      ・System Monitoring Tools
+- 🧑‍🎓 **I’m looking to collaborate on:**<br>
+  ・Cross-platform App Development<br>
 
--  💬 Ask me about:
-      ・iOS Development Tips
+- 🤝 **I’m looking for help with:**<br>
+  ・Swift Programming<br>
+  ・System Monitoring Tools<br>
 
-- ⚡ Fun fact **Call me as Dila**
+- 💬 **Ask me about:**<br>
+  ・iOS Development Tips<br>
+
+- ⚡ **Fun fact:**<br>
+  Call me **Dila**!
+
 
 </td>
 <td width="50%" align="center">
