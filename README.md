@@ -27,8 +27,7 @@
 - 💬 **Ask me about:**<br>
   ・iOS Development Tips<br>
 
-- ⚡ **Fun fact:**<br>
-  Call me **Dila**!
+- ⚡ **Fun fact Call me as Dila
 
 
 </td>
