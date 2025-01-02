@@ -1,7 +1,5 @@
 <div align="center">
 
-# Scar1109 / README.md
-
 [![](https://komarev.com/ghpvc/?username=scar1109&style=flat)](#) 
 
 Hi 👋, I'm Pubudu Dilshan
@@ -70,3 +68,7 @@ Hi 👋, I'm Pubudu Dilshan
 <a href="https://www.buymeacoffee.com/kaveendinethma"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 
 </div>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
