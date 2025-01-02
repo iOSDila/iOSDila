@@ -92,7 +92,7 @@
 
 ## Support:
 
-<a href="https://www.buymeacoffee.com/kaveendinethma"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+<a href="https://ko-fi.com/dila"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 
 </div>
 
