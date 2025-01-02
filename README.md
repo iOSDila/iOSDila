@@ -43,7 +43,8 @@ Hi 👋, I'm Pubudu Dilshan
 [![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/pubududilshan)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dila_z_97/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pubududilshan4769)
-[![TikTok](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tech_with_dila)
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tech_with_dila)
+
 
 ## Languages and Tools:
 
