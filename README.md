@@ -4,18 +4,17 @@
 
 [![](https://komarev.com/ghpvc/?username=scar1109&style=flat)](#) 
 
-Hi 👋, I'm Kaveen Dinethma
+Hi 👋, I'm Pubudu Dilshan
 ==========================
 
 ### Passionate IT Student | Exploring the Boundless World of Technology
 
 </div>
 
-* 🎯 I'm currently learning MERN
-* 🎓 I'm an Undergraduate at SLIIT
-* 💬 Ask me about Java
-* 📧 How to reach me kaveen.dinethma@gmail.com
-* ⚡ Fun fact Call me as KD
+* 🎯 I'm currently learning SWIFT
+* 💬 Ask me about  SWIFTUI
+* 📧 How to reach me pubudu_dilshan@outlook.com
+* ⚡ Fun fact Call me as DILA
 
 <div align="center">
 
