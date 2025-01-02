@@ -3,6 +3,10 @@
 
 <h1 align="center">Hi 👋,  I'm Pubudu Dilshan</h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Experienced +IT+Professional;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" /></a>
+
+</p>
 <h3 align="center">Experienced IT Professional | Leveraging Technology to Drive Innovation and Solve Challenges</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iOSDila&label=Profile%20views&color=0e75b6&style=flat" alt="iOSDila" /> </p>
