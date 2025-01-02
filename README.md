@@ -1,24 +1,41 @@
-<div align="center">
+<p align="center" >
+<img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
-[![](https://komarev.com/ghpvc/?username=scar1109&style=flat)](#) 
+<h1 align="center">Hi 👋,  I'm Pubudu Dilshan</h1>
 
-<img align="center" alt="Coding" width="150" src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" style="max-width: 100%;">
+<h3 align="center">Experienced IT Professional | Leveraging Technology to Drive Innovation and Solve Challenges</h3>
 
-Hi 👋, I'm Pubudu Dilshan
-==========================
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
-### Passionate IT Student | Exploring the Boundless World of Technology
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently working on: 
+      ・System Administration
+      ・iOS Development
 
-</div>
+- 🧑‍🎓 I’m looking to collaborate on: 
+      ・Cross-platform App Development
 
-- 🔭 I’m currently working on **[Hospital Management System](https://pubududilshan.com/portfolio/hospital-management-system/)**
-- 🌱 Learning **Cloud Architecture** and **Mobile App Development**
-- 💬 Ask me about **Web Development**, **UI/UX Design**, **Cloud Solutions**
-- 📫 Reach me at: [support@pubududilshan.com](mailto:support@pubududilshan.com)
+- 🤝 I’m looking for help with:
+      ・Swift Programming
+      ・System Monitoring Tools
 
-<div align="center">
+-  💬 Ask me about:
+      ・iOS Development Tips
 
+- ⚡ Fun fact **Call me as Dila**
 
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 
 ## My Statistics:
 
