@@ -55,7 +55,7 @@
     <a href="https://www.behance.net/pubududilshan"><img src="https://img.icons8.com/color/48/000000/behance.png" alt="Behance"/></a>
     <a href="https://www.instagram.com/dila_z_97/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
     <a href="https://www.youtube.com/@pubududilshan4769"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/></a>
-    <a href="https://www.tiktok.com/@tech_with_dila"><img src="https://img.icons8.com/color/48/000000/tiktok.png" alt="TikTok"/></a>
+    <a href="https://www.tiktok.com/@tech.with.dila"><img src="https://img.icons8.com/color/48/000000/tiktok.png" alt="TikTok"/></a>
     <a href="https://wa.me/94713620406"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"/></a>
   </p>
 </div>
