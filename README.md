@@ -43,9 +43,13 @@
 </table>
 
 <div class="container">
-  <h2>🔥 GitHub Contributions:</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=iOSDila&show_icons=true&theme=radical" alt="GitHub Contributions">
+  <h2>🔥 Most Used Languages:</h2>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <!-- First Language Stats -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iOSDila&layout=compact&theme=dracula" alt="Top Languages">
+  </div>
 </div>
+
 
 <!--<div class="container">
   <h2>🔥 Contributions:</h2>
