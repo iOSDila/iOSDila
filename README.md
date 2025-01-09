@@ -45,8 +45,7 @@
 <div class="container">
   <h2>🔥 Most Used Languages:</h2>
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <!-- First Language Stats -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iOSDila&layout=compact&theme=dracula" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iOSDila&layout=compact&theme=dracula&langs_count=10&hide=html,css" alt="Top Languages">
   </div>
 </div>
 
@@ -72,6 +71,7 @@
   <h2>🛠️ Languages and Tools:</h2>
   <p align="center">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>
     <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
