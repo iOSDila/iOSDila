@@ -42,11 +42,15 @@
 </tr>
 </table>
 
-
 <div class="container">
+  <h2>🔥 GitHub Contributions:</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=iOSDila&show_icons=true&theme=radical" alt="GitHub Contributions">
+</div>
+
+<!--<div class="container">
   <h2>🔥 Contributions:</h2>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=iOSDila&theme=radical" alt="GitHub Streak">
-</div>
+</div> -->
 
   <h2>🌐 Connect with Me:</h2>
   <p align="center">
